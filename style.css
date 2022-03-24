@@ -1,0 +1,35 @@
+.detail {
+  text-decoration: underline;
+  font-size: 13px;
+}
+.time {
+color: red;
+}
+.makes{
+  margin-left: auto;
+  margin-left: auto; margin-right: auto; 
+  width: 18em;
+}
+.title{
+    border-style: groove;
+    border-radius: 10px;
+   background-color: brown;
+   border-color: brown; 
+    color: white;
+    font-style: italic;
+}
+.bye{
+  border-style: groove;
+  border-radius: 10px;
+ background-color: brown;
+ border-color: brown; 
+  color: white;
+  font-size: 25px;
+  font-style: italic;
+}.hi{
+  color:chocolate;
+  font-size: 35px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+}
+
